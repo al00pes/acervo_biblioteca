@@ -24,7 +24,3 @@ Utilizando dados de empréstimos dos acervos do sistema de bibliotecas da UFRN a
      - Obras Raras
      - Trabalho Acadêmico
      - Literatura de Cordel
-
-Esses insights são fundamentais para entender melhor o comportamento dos usuários e otimizar a gestão dos acervos. 📊📖 #BibliotecasUFRN #DataAnalysis #BigData #Educação
-
-Vamos juntos transformar dados em conhecimento! 🚀
